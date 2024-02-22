@@ -1,0 +1,12 @@
+.container{
+    display: grid;
+    justify-items: center;
+}
+h2{
+    margin-bottom: 25px;
+}
+img{
+    max-width: 75%;
+    max-height: 75%;
+    object-fit: cover;
+}
